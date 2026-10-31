@@ -1,0 +1,20 @@
+# Compiled executables
+src/demo
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
